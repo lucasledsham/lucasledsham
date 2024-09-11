@@ -118,9 +118,24 @@
 
 -----
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ledsham">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ledsham" alt="Data Card for Spotify">
-</a>
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=b89b14e5655a477fy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=b89b14e5655a477f&count=10"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
 
 -----
 
