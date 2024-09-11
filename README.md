@@ -98,27 +98,6 @@
 -----
 
 <div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="mailto:lucasnunesleal@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/lucasledsham/lucasledsham/blob/main/img/footer-1.png" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/lucasledsham" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/lucasledsham/lucasledsham/blob/main/img/footer-2.png" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
------
-
-<div>
  
 <div>
 <details>
@@ -142,6 +121,27 @@
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
+<div>
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="mailto:lucasnunesleal@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/lucasledsham/lucasledsham/blob/main/img/footer-1.png" alt="github-footer2"/></a>
+</td>
+<td>
+<a href="https://github.com/lucasledsham" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/lucasledsham/lucasledsham/blob/main/img/footer-2.png" alt="github-footer1"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
 </tr> 
 </table>
 </div>
