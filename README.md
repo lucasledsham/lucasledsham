@@ -118,4 +118,32 @@
 
 -----
 
+<div>
+ 
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ledsham" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ledsham&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=ledsham&count=10"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
