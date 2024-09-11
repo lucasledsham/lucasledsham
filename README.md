@@ -118,4 +118,10 @@
 
 -----
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ledsham">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ledsham" alt="Data Card for Spotify">
+</a>
+
+-----
+
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
