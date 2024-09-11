@@ -130,7 +130,7 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
+ <td align="center" colspan="2"></td>
 </tr> 
 <tr>
 <td>
