@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Lucas Ledsham</code>. Sou estudante de Engenharia de Software pela PUC Minas, residente em Belo Horizonte, com grande entusiasmo por novas tecnologias e constante busca por conhecimento. No meu GitHub, você pode acompanhar os projetos em que estou trabalhando, além das linguagens e ferramentas que estou aprendendo. Também sou formado em Publicidade e Propaganda, o que me proporciona uma visão estratégica e criativa no desenvolvimento de soluções tecnológicas.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Lucas Ledsham</code>, sou estudante de Engenharia de Software pela PUC Minas, residente em Belo Horizonte. No meu GitHub, você pode acompanhar os projetos em que estou trabalhando, além das linguagens e ferramentas que estou aprendendo. Também sou formado em Publicidade e Propaganda, o que me proporciona uma visão estratégica e criativa no desenvolvimento de soluções tecnológicas.</i> :man_teacher:<br />
 </div>
 
 -----
