@@ -60,6 +60,8 @@
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="50" height="50" src="https://github.com/lucasledsham/lucasledsham/img/intellij_icon.png"/></a></code>
+&nbsp;
 </div>
 
 -----
