@@ -24,8 +24,6 @@
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/348276791770611712" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
