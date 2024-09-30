@@ -59,6 +59,7 @@
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" rel="nofollow"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/pc.png?raw=true" style="max-width: 100%;"></a></code>
 </div>
 
 -----
